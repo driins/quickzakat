@@ -1,0 +1,18 @@
+=== QuickZakat | Aplikasi dibuat untuk memenuhi Tugas Besar UAS Pemrograman Web ===
+
+Indri Windriasari
+217006036
+Kelas B 
+
+=== INFO LOGIN ===
+username = admin
+password = admin
+      atau
+username = indri
+password = indri
+
+=== INFO DATABASE ===
+1. File database berada pada folder database dengan nama file zakatfitrah.sql
+2. Buka localhost/phpmyadmin kemudian buat database baru bernama 'zakatfitrah'
+3. Import file 'zakatfitrah.sql' ke database 'zakatfitrah'
+4. Login dan akses fitur-fitur yang tersedia pada website QuickZakat
